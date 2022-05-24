@@ -1,0 +1,122 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.line {
+    background: #81b300;
+    height: 3px;
+    width: 100%;
+}
+
+.icon {
+    float: right;
+    margin-right: 50px;
+    background: url(bg-icon.png);
+    width: 250px;
+    height: 45px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.icon a i {
+  background: black;
+    font-size: 20px;
+    padding: 8px;
+    margin: 5px;
+    color: white;
+
+    border-radius: 100px;
+
+}.hlw{
+    padding:25px 25px 0 60px;
+}#pra{
+    float: right;
+    margin-right: 50px;  
+}#navbar{
+    background: #81b300;
+    
+}
+#navbar ul li a{
+    margin: 15px;
+color: white;
+font-size: 16px;
+}#navbar button{
+   color: #81b300;
+   background-color: white;
+  
+  
+}.navbar-collapse form{
+    padding-left: 150px;
+    width: 500px;
+    
+   
+}.container img{
+    padding: 50px 0 60px 0;
+    display: inline-block;
+    overflow: hidden;
+    height: 580px;
+    width: 300px;
+    margin: 0;
+    
+    
+    
+}#service{
+    padding: 0px 40px 0px 40px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}#service h5{
+    color: #81b300;
+}
+
+.card{
+    padding: 20px ;
+   
+    outline: none;border: none;
+}.card span{
+    color: #81b300;
+}.footer{
+    background: #3b3b3b;
+    padding: 35px;
+}.last-foot{
+    background: #2e2e2e;
+    height: 55px;
+    padding: 15px;
+}
+
+.footer span{
+    color: #81b300;
+
+}
+p{
+    color: #999999;
+}
+
+.row input{
+    margin: 0 0 13px 0;
+    border-radius: 6px;
+    background: #2e2e2e;
+}.row button{
+    padding: 3px 10px 3px 10px;
+    border-radius: 8px;
+    color: #81b300;
+    background: #2e2e2e;
+    
+}
+.under p{
+    border-bottom: 1px solid #999999;
+}
+.input-fields label{
+    color: #999999;
+}
+.input-fields label a{
+    color: #999999;
+}
+.col b{
+    color: #999999;
+}
+.foot{
+    margin: 15px;
+}.foot h6{
+ margin-bottom: 15px;
+}
